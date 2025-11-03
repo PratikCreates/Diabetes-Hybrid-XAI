@@ -211,8 +211,7 @@ SOFTWARE.
 ## 📞 Contact
 
 - **Repository**: [PratikCreates/Diabetes-Hybrid-XAI](https://github.com/PratikCreates/Diabetes-Hybrid-XAI)
-- **Project Lead**: PratikCreates
-
+- 
 ## 🙏 Acknowledgments
 
 - Pima Indians Diabetes Dataset contributors
