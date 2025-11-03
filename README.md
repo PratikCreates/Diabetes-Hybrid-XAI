@@ -224,8 +224,6 @@ SOFTWARE.
 
 <div align="center">
 
-**Built with ❤️ for healthcare AI advancement**
-
 [⬆️ Back to Top](#-diabetes-hybrid-xai---ensemble-prediction-system)
 
 </div>
